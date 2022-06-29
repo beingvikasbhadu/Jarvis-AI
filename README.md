@@ -42,7 +42,7 @@ To run this program you will require a API key. Register your API key by clickin
 * Enjoy !!!!
 
 # License 
-This project is licensed under [MIT License]([https://github.com/Vikas-Bahdu/Jarvis-AI/edit/master/README.md](https://github.com/Vikas-Bahdu/Jarvis-AI/blob/master/LICENSE)) 2022 vikas bhadu
+This project is licensed under [MIT License](https://github.com/Vikas-Bahdu/Jarvis-AI/edit/master/README.md](https://github.com/Vikas-Bahdu/Jarvis-AI/blob/master/LICENSE) 2022 vikas bhadu
 
 # Future Improvements
 * Generalized conversations can be made possible by incorporating Natural Language Processing
