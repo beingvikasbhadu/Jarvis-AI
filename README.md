@@ -31,6 +31,16 @@ Let's be honest, it's not as intelligent as in the movie, but it can do a lot of
 To run this program you will require a API key. Register your API key by clicking the following link
 * [YOUTUBE DATA API V3](https://developers.google.com/youtube/v3/getting-started)
 
+# Installation
+* First clone the repo
+* Make a new python environment If you are using anaconda just type conda create -n jarvis python==3.8.5 in anaconda prompt
+* To activate the environment conda activate jarvis
+* Navigate to the directory of your project
+* Install all the requirements by just hitting pip install -r requirements.txt
+* Install PyAudio from wheel file by following instructions given here
+* Run the program by python main.py
+* Enjoy !!!!
+
 # License 
 This project is licensed under [MIT License]([https://github.com/Vikas-Bahdu/Jarvis-AI/edit/master/README.md](https://github.com/Vikas-Bahdu/Jarvis-AI/blob/master/LICENSE)) 2022 vikas bhadu
 
