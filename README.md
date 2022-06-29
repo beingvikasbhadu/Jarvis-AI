@@ -16,9 +16,9 @@ Let's be honest, it's not as intelligent as in the movie, but it can do a lot of
 * Tells about any person (via Wikipedia)
 * Can play any song on YouTube
 * Plays music
-* Send email (via stmp)
+* Can send email (via stmp)
 * Answer any generic question
-* Open IDE
+* Can Open IDE
 * Tells a random joke
 * Tells your IP address
 * Can switch off the window 
