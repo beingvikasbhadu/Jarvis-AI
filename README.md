@@ -30,3 +30,6 @@ Let's be honest, it's not as intelligent as in the movie, but it can do a lot of
 # API KEYS
 To run this program you will require a API key. Register your API key by clicking the following link
 * [YOUTUBE DATA API V3](https://developers.google.com/youtube/v3/getting-started)
+
+# License 
+This project is licensed under [MIT License](https://github.com/Vikas-Bahdu/Jarvis-AI/edit/master/README.md) 2022 vikas bhadu
