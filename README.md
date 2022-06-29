@@ -32,4 +32,10 @@ To run this program you will require a API key. Register your API key by clickin
 * [YOUTUBE DATA API V3](https://developers.google.com/youtube/v3/getting-started)
 
 # License 
-This project is licensed under [MIT License](https://github.com/Vikas-Bahdu/Jarvis-AI/edit/master/README.md) 2022 vikas bhadu
+This project is licensed under [MIT License]([https://github.com/Vikas-Bahdu/Jarvis-AI/edit/master/README.md](https://github.com/Vikas-Bahdu/Jarvis-AI/blob/master/LICENSE)) 2022 vikas bhadu
+
+# Future Improvements
+* Generalized conversations can be made possible by incorporating Natural Language Processing
+* GUI can be made it more nicer to look at and functional
+* More functionalities can be added
+
