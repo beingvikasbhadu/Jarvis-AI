@@ -4,7 +4,7 @@ This was my attempt to make a voice assistant similar to JARVIS (in iron man mov
 Let's be honest, it's not as intelligent as in the movie, but it can do a lot of cool things and automate your daily tasks you do on your personal computers/laptops.
 
 # Built With
-![image](https://user-images.githubusercontent.com/98146902/176440884-a8b1d037-6f47-405c-afd5-e8224de38f4a.png)
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 
 # Features
 * It can do a lot of cool things, some of them being:
